@@ -176,6 +176,7 @@ Resources:
         - Key: Name
           Value: App2
   
+  
   # SG App 1A
   AppInstance1ASG:
     Type: 'AWS::EC2::SecurityGroup'
